@@ -1,0 +1,32 @@
+/* 导航栏样式 */
+nav {
+    background-color: black; /* 黑色背景 */
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* 导航栏列表 */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* 导航栏项目 */
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+/* 导航栏链接 */
+nav ul li a {
+    color: white; /* 文字颜色白色 */
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* 鼠标悬停效果 */
+nav ul li a:hover {
+    text-decoration: underline;
+}
