@@ -1,7 +1,7 @@
 /* 导航栏样式 */
 nav {
-    background-color: black; /* 黑色背景 */
-    padding: 10px 0;
+    background-color: rgb(107, 53, 53); /* 黑色背景 */
+    padding: 0;
     text-align: center;
 }
 
