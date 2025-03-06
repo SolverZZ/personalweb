@@ -1,8 +1,12 @@
 /* 导航栏样式 */
 nav {
-    background-color: rgb(107, 53, 53); /* 黑色背景 */
+    background-color: black; /* 彻底改为黑色背景 */
     padding: 0;
-    text-align: center;
+    margin: 0;
+    width: 100%; /* 确保宽度占满整个页面 */
+    position: fixed; /* 让导航栏固定在顶部 */
+    top: 0;
+    left: 0;
 }
 
 /* 导航栏列表 */
