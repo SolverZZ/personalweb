@@ -9,11 +9,18 @@ nav {
     left: 0;
 }
 
+/* 清除 body 和 html 默认的 margin */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
 /* 导航栏列表 */
 nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    text-align: center;
 }
 
 /* 导航栏项目 */
