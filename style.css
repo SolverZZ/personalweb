@@ -4,6 +4,7 @@ nav {
     padding: 0;
     margin: 0;
     width: 100%; /* 确保宽度占满整个页面 */
+    height: 20px;
     position: fixed; /* 让导航栏固定在顶部 */
     top: 0;
     left: 0;
@@ -21,7 +22,7 @@ nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
-    text-align: center;
+    text-align: left;
 }
 
 /* 导航栏项目 */
