@@ -7,6 +7,7 @@ nav {
     position: fixed; /* 让导航栏固定在顶部 */
     top: 0;
     left: 0;
+    text-align: center;
 }
 
 /* 清除 body 和 html 默认的 margin */
